@@ -7,9 +7,9 @@
   Welcome to me!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
-</p>
+</p> -->
 
 ---
 <div align="center">
@@ -64,7 +64,7 @@
 [![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row53&column=5) <!--<a href="https://app.daily.dev/CodeWhiteWeb"><img src="https://github.com/CodeWhiteWeb/CodeWhiteWeb/blob/main/devcard.svg" width="175" alt="CodeWhiteWebs's Dev Card"/></a><br>-->
 <!--![trophy](https://metrics.lecoq.io/CodeWhiteWeb?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=true&config.timezone=Asia%2FCalcutta)-->
 
----
+<!-- --- -->
   
 <!-- ### 📕 Latest Blog Posts -->
 
@@ -92,11 +92,11 @@
 
 <!-- [![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/CodeWhiteWeb/github-readme-riddle) -->
 
----
+<!-- --- -->
 <!-- ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
 ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 ![](https://forthebadge.com/images/badges/uses-brains.svg) -->
----
+<!-- --- -->
 <!-- ![Profile_Views](https://komarev.com/ghpvc/?username=CodeWhiteWeb&style=for-the-badge&label=Visitors+Count&color=brightgreen)
 [![wakatime](https://wakatime.com/badge/user/1d2fda96-c074-4c84-a0d5-31efb131faec.svg/?style=for-the-badge)](https://wakatime.com/@1d2fda96-c074-4c84-a0d5-31efb131faec) -->
 
