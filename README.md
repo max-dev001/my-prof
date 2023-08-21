@@ -21,7 +21,6 @@
 
   👯 I’m open to collaborate with anyone and ready to work
 
-  💬 Ask me about for any help
   📫 How to reach me:<br/>
   Mail me at "onosaito0614@gmail.com"
   <!-- through website https://codewhiteweb.thedev.id/contact -->
