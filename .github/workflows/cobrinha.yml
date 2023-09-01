@@ -17,7 +17,7 @@ jobs:
           github_user_name: CodeWhiteWeb
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v3.2.0
         with:
           target_branch: output
           build_dir: dist
